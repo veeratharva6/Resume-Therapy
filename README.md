@@ -7,7 +7,10 @@
 
 ## USER DASHBOARDS
 ![Screenshot 2023-06-07 at 1 38 36 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/d1444091-f08e-4ea5-8daf-7a5f1391fd3a)
-![Screenshot 2023-06-07 at 1 38 51 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/cf638165-d467-4f94-ab9e-15d322650ef4)
+![Screenshot 2023-06-07 at 1 38 51 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/cf638165-d467-4f94-ab9e-15d322650ef4)![Screenshot 2023-06-07 at 1 49 39 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/af7ae7c0-3bb1-4e7d-9e1c-9436f5acdc3d)
+![Screensho![Uploading Screenshot 2023-06-07 at 2.00.28 PM.png…]()
+t 2023-06-07 at 1 59 57 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/4e941dc6-12f1-4312-b7f8-c113eddf4cde)
+![Screenshot 2023-06-07 at 1 45 06 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/41e33763-a23b-476b-9f9e-7583d6dfa8a2)
 
 ## THERAPIST DASHBOARD
 ![Screenshot 2023-06-07 at 1 47 36 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/821ecb80-4de1-4ae5-820f-f9a68bc881e9)
