@@ -13,3 +13,6 @@
 ![Screenshot 2023-06-07 at 1 47 36 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/821ecb80-4de1-4ae5-820f-f9a68bc881e9)
 ![Screenshot 2023-06-07 at 1 48 43 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/cceb6b15-2c73-421a-a1f3-bcacb4c3a0d9)
 ![Screenshot 2023-06-07 at 1 50 14 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/9bd32557-6670-4825-99b5-807efec5e035)
+![Screenshot 2023-06-07 at 1 50 58 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/d5988568-2cd8-4dce-a80a-1180c6270a87)
+![Screenshot 2023-06-07 at 1 51 09 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/8e2252ce-3298-4714-b7c8-de03b4e52b47)
+![Screenshot 2023-06-07 at 1 51 26 PM](https://github.com/veeratharva6/Resume-Therapy/assets/64340527/fda942a6-07b7-4a44-bcd0-654c468f6b03)
