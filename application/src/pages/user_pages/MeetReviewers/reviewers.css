@@ -1,0 +1,50 @@
+.reviewers-page {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 25%;
+  width: 75%;
+  background-color: white;
+}
+
+.WebContainer {
+  width: 100%;
+  height: auto;
+}
+
+.articles {
+  width: 90%;
+  height: auto;
+  margin: auto;
+}
+.navbar {
+  display: static;
+  height: 500px;
+  width: 30%;
+  text-align: right;
+}
+
+.message-list {
+  display: relative;
+  height: 500px;
+  width: 30%;
+  text-align: left;
+}
+
+.chatbox {
+  display: inline-block;
+  position: absolute;
+  width: 70%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+.h1 {
+  color: #1d332e;
+}

@@ -1,0 +1,106 @@
+.message-list h2 {
+  text-align: center;
+  color: #1d332e;
+}
+.messages {
+  position: relative;
+  top: 0;
+  right: 50px;
+  bottom: 0;
+  left: 5px;
+}
+
+.message-list {
+  display: relative;
+  width: 30%;
+}
+
+.chatbox-fun {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0px;
+  bottom: 0;
+  background: transparent;
+  overflow: auto;
+}
+
+.message-list-list {
+  position: relative;
+  top: 30px;
+  width: 90%;
+  left: 60px;
+  background: transparent;
+}
+
+li {
+  list-style: none;
+}
+
+.hidden {
+  display: none;
+}
+.rce-container-mbox {
+  background: transparent;
+}
+
+.chat-nav {
+  position: absolute;
+  left: 560px;
+  top: 0px;
+}
+
+.rce-citem {
+  background: transparent;
+}
+.rce-mlist {
+  background-color: transparent;
+}
+
+.sendMessage {
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  width: 40%;
+}
+
+.messages-text {
+  right: 70px;
+}
+.messages-nav {
+  left: 50px;
+}
+
+.chatContainer {
+  position: absolute;
+}
+
+.slidingElement {
+  background: transparent;
+  opacity: 0;
+  transition: transform 0.5s ease;
+  transition: opacity 0.9s ease 0s;
+  transform: translateX(-45%);
+  transform: translateY(200%);
+}
+
+.slidingElementText {
+  background: transparent;
+  opacity: 0;
+  transition: transform 0.5s ease;
+  transition: opacity 0.9s ease 0s;
+  transform: translateX(-45%);
+  transform: translateY(200%);
+}
+
+.extended {
+  background: transparent;
+  opacity: 1;
+  transform: translateX(0);
+  transform: translateY(0);
+}
+/* End of Messaging Page Styling */
+
+.contain {
+  background-color: aquamarine;
+}

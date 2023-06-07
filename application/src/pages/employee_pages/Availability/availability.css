@@ -1,0 +1,13 @@
+.available {
+  padding-top: 0%;
+}
+
+.h1 {
+  color: black;
+}
+
+@media screen and (max-width: 1080px) {
+  .available {
+    padding-top: 10%;
+  }
+}

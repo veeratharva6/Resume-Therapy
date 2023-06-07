@@ -1,0 +1,32 @@
+.connections-header {
+  font-size: 24px;
+  position: sticky;
+}
+
+.connections-list li {
+  font-size: 16px;
+  position: relative;
+}
+
+.h1 {
+  font-size: 13;
+  color: black;
+}
+.p {
+  font-size: 7;
+  color: darkolivegreen;
+}
+.resume {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 22;
+  overflow: hidden;
+  word-wrap: break-word;
+  height: 150%;
+  width: 100%;
+}
+
+.resume-div {
+  word-wrap: break-word;
+  overflow: hidden;
+}

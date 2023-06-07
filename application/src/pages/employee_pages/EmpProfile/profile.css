@@ -1,0 +1,26 @@
+.resumes {
+  text-align: center;
+}
+
+.profile-page {
+  background-color: white;
+}
+
+.h1 {
+  color: black;
+}
+
+body {
+  background-color: white;
+}
+
+.img {
+  width: 50%;
+  height: 60%;
+}
+
+@media screen and (max-width: 1080px) {
+  .available {
+    padding-top: 15%;
+  }
+}

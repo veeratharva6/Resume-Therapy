@@ -1,0 +1,23 @@
+.container {
+  display: inline-block;
+  height: 400px;
+  width: 20%;
+  transform: translate(10%, 20%);
+  background-color: bisque;
+}
+
+.container2 {
+  display: inline-block;
+  height: 400px;
+  width: 20%;
+  transform: translate(40%, 20%);
+  background-color: bisque;
+}
+
+.messages {
+  display: inline;
+  height: 100%;
+  width: 100%;
+  background-color: bisque;
+  text-align: center;
+}

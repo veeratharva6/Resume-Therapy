@@ -1,0 +1,253 @@
+.mask {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.into-img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+.mask::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  opacity: 0.8;
+}
+
+/*-------------------------*/
+/* Default Styling */
+/*-------------------------*/
+.hero {
+  height: 100%;
+  width: 100%;
+}
+.hero .content {
+  position: absolute;
+
+  top: 15%;
+  left: 5%;
+
+  width: 50%;
+
+  text-align: left;
+}
+
+.hero .content h1 {
+  font-size: 5rem;
+  padding: 0.6rem 0 1rem;
+  text-shadow: 5px 5px 5px purple;
+}
+
+.hero .content p {
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 0.1rem 0 1.5rem;
+}
+
+.content .btn {
+  margin: 1rem 0.2rem;
+  box-shadow: 10px 10px 5px black;
+}
+
+.content .btn-light {
+  margin: 1rem 0.2rem;
+  box-shadow: 10px 10px 5px black;
+}
+
+.content .img {
+  position: absolute;
+  width: auto;
+  height: auto;
+  top: 0px;
+  right: -80%;
+  box-shadow: 10px 10px 5px black;
+}
+
+/* -------------------------------- */
+/* Mobile Devices */
+/* -------------------------------- */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+  .hero {
+    height: 100%;
+    width: 100%;
+  }
+
+  .hero .content {
+    position: absolute;
+    top: 18%;
+    left: 20%;
+
+    width: 60%;
+
+    text-align: center;
+  }
+
+  .hero .content h1 {
+    font-size: 3rem;
+    padding: 0.6rem 0 1rem;
+    text-shadow: 5px 5px 5px purple;
+  }
+
+  .hero .content p {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.1rem 0 1.5rem;
+  }
+
+  .content .btn {
+    margin: 1rem 0.2rem;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .content .img {
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 0px;
+    right: -80%;
+    box-shadow: 10px 10px 5px black;
+  }
+}
+
+/* -------------------------------- */
+/* Tablets */
+/* -------------------------------- */
+@media screen and (min-width: 480px) and (max-width: 720px) {
+  .hero {
+    height: 50%;
+    width: 100%;
+  }
+  .hero .content {
+    position: absolute;
+    top: 25%;
+    left: 20%;
+
+    width: 60%;
+
+    text-align: center;
+  }
+
+  .hero .content h1 {
+    font-size: 3rem;
+    padding: 0.6rem 0 1rem;
+    text-shadow: 5px 5px 5px purple;
+  }
+
+  .hero .content p {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.1rem 0 1.5rem;
+  }
+  .content .btn {
+    margin: 1rem 0.2rem;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .content .img {
+    position: absolute;
+    width: 0%;
+    height: 0%;
+    top: 0px;
+    right: -80%;
+    box-shadow: 10px 10px 5px black;
+  }
+}
+
+/* -------------------------------- */
+/* Small Screens */
+/* -------------------------------- */
+@media screen and (min-width: 721px) and (max-width: 1080px) {
+  .hero {
+    height: 100%;
+    width: 100%;
+  }
+  .hero .content {
+    position: absolute;
+
+    top: 15%;
+    left: 5%;
+
+    width: 50%;
+
+    text-align: left;
+  }
+
+  .hero .content h1 {
+    font-size: 3rem;
+    padding: 0.6rem 0 1rem;
+    text-shadow: 5px 5px 5px purple;
+  }
+
+  .hero .content p {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.1rem 0 1.5rem;
+  }
+  .content .btn {
+    margin: 1rem 0.2rem;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .content .img {
+    position: absolute;
+    width: 70%;
+    height: auto;
+    top: 25px;
+    right: -80%;
+    box-shadow: 10px 10px 5px black;
+  }
+}
+
+/* -------------------------------- */
+/* Desktop Screens */
+/* -------------------------------- */
+
+@media screen and (min-width: 1081px) and (max-width: 1200px) {
+  .hero {
+    height: 100%;
+    width: 100%;
+  }
+  .hero .content {
+    position: absolute;
+
+    top: 15%;
+    left: 5%;
+
+    width: 50%;
+
+    text-align: left;
+  }
+
+  .hero .content h1 {
+    font-size: 3rem;
+    padding: 0.6rem 0 1rem;
+    text-shadow: 5px 5px 5px purple;
+  }
+
+  .hero .content p {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.1rem 0 1.5rem;
+  }
+  .content .btn {
+    margin: 1rem 0.2rem;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .content .img {
+    position: absolute;
+    width: 60%;
+    height: auto;
+    top: 25px;
+    right: -80%;
+    box-shadow: 10px 10px 5px black;
+  }
+}

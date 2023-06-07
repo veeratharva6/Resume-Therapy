@@ -1,0 +1,97 @@
+.body {
+  margin: auto;
+}
+.profile {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+/* Nav Bar Styling*/
+.navbar .header-bg {
+  background-color: rgb(209, 209, 209);
+}
+
+.navbar h1 {
+  color: #1d332e;
+}
+
+.navbar li a {
+  color: #1d332e;
+}
+
+/* About Us Styling  (Top of page) */
+
+.info-section {
+  display: block;
+  /* justify-content: center; */
+  padding-left: 10%;
+  padding-top: 20%;
+  align-items: top;
+  height: 100vh;
+}
+
+.info-section h1 {
+  font-size: 4rem;
+  color: #1d332e;
+}
+
+.info-section p {
+  font-size: 1rem;
+  color: #000;
+}
+
+.info-section .btn {
+  position: absolute;
+
+  margin: 1rem 0.2rem;
+  box-shadow: 10px 10px 5px black;
+  color: #fff;
+  border: 1px solid #1d332e;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Developers Styling  (Second on page) */
+
+.developers-section {
+  display: block;
+  text-align: center;
+  height: 100vh;
+}
+
+.developers-section h1 {
+  font-size: 4rem;
+  color: #1d332e;
+}
+
+.devs {
+  display: block;
+  align-items: top;
+  height: 100vh;
+}
+
+.rcorners1 {
+  display: inline-block;
+  border-radius: 25px;
+  background: #1d332e;
+  width: 30%;
+  padding: 40px;
+
+  margin-top: 5%;
+  margin-right: 1%;
+}
+
+/* Tech Stack Styling  (Third on page) */
+.stack-section {
+  display: inline;
+  text-align: center;
+  height: 100vh;
+  padding: 25px;
+}
+
+.stack-section h1 {
+  font-size: 4rem;
+  color: #1d332e;
+  display: block;
+}

@@ -1,0 +1,211 @@
+.dashboard {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.sidebar {
+  position: fixed;
+  height: 100vh;
+  width: 20vw;
+  background-color: #1d332e;
+}
+
+.side-buttons {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.side-buttons h1 {
+  text-align: center;
+}
+
+.sidebar__btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  border: none;
+  color: white;
+  background-color: #1d332e;
+}
+
+.dashboard__btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+.settings-btn {
+  position: absolute;
+  width: auto;
+  height: auto;
+}
+
+.topbar {
+  position: absolute;
+  height: 10vh;
+  width: 80%;
+  left: 20%;
+}
+
+.dash-name {
+  position: fixed;
+  font-family: "Roboto", sans-serif;
+  font-size: 3rem;
+  top: 5%;
+  left: 30%;
+}
+
+.links {
+  position: absolute;
+  top: 15%;
+  left: 90%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.dashboard__container {
+  position: relative;
+  top: 40%;
+  left: 40%;
+  text-align: center;
+  padding: 30px;
+}
+
+.dashboard__container input {
+  width: 80%;
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  border: 2px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.dashboard div {
+  margin-top: 7px;
+}
+
+img {
+  padding-top: 40px;
+  width: 500px;
+}
+
+.home-page {
+  /* position: relative; */
+  text-align: center;
+}
+
+.messages-page {
+  /* position: relative; */
+  text-align: center;
+}
+
+.resume-page {
+  text-align: center;
+}
+
+/* Messaging Pages Styling */
+
+/* h2{
+  text-align: center;
+  color: #1d332e;
+} */
+
+.messages {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 25%;
+  width: 75%;
+  background-color: white;
+}
+
+.message-list {
+  display: relative;
+  height: 500px;
+  width: 30%;
+  text-align: left;
+}
+
+.chatbox {
+  display: inline-block;
+  position: absolute;
+  width: 70%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  overflow: auto;
+}
+
+/* End of Messaging Page Styling */
+
+/* Meet Reviewers Page Styling */
+
+.cards-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196f3;
+  padding: 10px;
+}
+
+.cards {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+/* Messaging Pages Styling */
+
+.message-list h2 {
+  text-align: center;
+  color: #1d332e;
+}
+
+.messages {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 25%;
+  width: 75%;
+  background-color: white;
+}
+
+.message-list {
+  display: relative;
+  height: 500px;
+  width: 30%;
+  text-align: left;
+}
+
+.chatbox {
+  display: inline-block;
+  position: absolute;
+  width: 70%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+/* End of Messaging Page Styling */

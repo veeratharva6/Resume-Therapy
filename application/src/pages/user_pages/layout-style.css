@@ -1,0 +1,49 @@
+.dash-layout {
+  padding-left: 300px;
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 100px;
+}
+
+/* -------------------------------- */
+/* Mobile Devices */
+/* -------------------------------- */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+  .dash-layout {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+}
+
+/* -------------------------------- */
+/* Tablets */
+/* -------------------------------- */
+@media screen and (min-width: 480px) and (max-width: 720px) {
+  .dash-layout {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+}
+
+/* -------------------------------- */
+/* Small Screens */
+/* -------------------------------- */
+@media screen and (min-width: 721px) and (max-width: 1080px) {
+  .dash-layout {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+}
+
+/* -------------------------------- */
+/* Desktop Screens */
+/* -------------------------------- */
+
+@media screen and (min-width: 1081px) and (max-width: 1200px) {
+}
